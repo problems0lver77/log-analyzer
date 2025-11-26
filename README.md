@@ -14,7 +14,7 @@
 
 ```java
 List<String> files = List.of("logs/log1.txt", "logs/log2.txt", "logs/log3.txt");
-LogAnalyzer analyzer = new LogAnalyzer(files, 3, 2);
+LogAnalyzer analyzer = new LogAnalyzer(files, 3, 2); 3 - потоки для executor, 2 - блоки на семафор
 ResultSummary result = analyzer.analyze();
 
 System.out.println("Всего ошибок: " + result.getErrorCount());
