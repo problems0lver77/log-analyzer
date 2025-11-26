@@ -1,0 +1,20 @@
+10.0.0.5 INFO User login
+192.168.1.2 ERROR Disk space low
+10.0.0.8 INFO Page viewed
+172.16.0.2 ERROR Failed to write file
+192.168.1.1 INFO Settings saved
+10.0.0.5 ERROR Timeout
+192.168.1.2 WARN Slow response
+10.0.0.8 ERROR Database error
+172.16.0.2 INFO Session started
+192.168.1.1 ERROR Unauthorized action
+10.0.0.5 INFO User logout
+192.168.1.2 ERROR Failed to load config
+10.0.0.8 WARN Memory warning
+172.16.0.2 ERROR Email not sent
+192.168.1.1 INFO Profile updated
+10.0.0.5 ERROR Resource busy
+192.168.1.2 INFO Page refreshed
+10.0.0.8 ERROR Connection lost
+172.16.0.2 WARN High CPU load
+192.168.1.1 ERROR Authentication failed

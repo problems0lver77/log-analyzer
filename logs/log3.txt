@@ -1,0 +1,20 @@
+192.168.1.1 INFO Login attempt
+10.0.0.5 ERROR Timeout occurred
+192.168.1.2 INFO Page opened
+10.0.0.8 ERROR Database failure
+172.16.0.2 INFO Session active
+192.168.1.1 ERROR File missing
+10.0.0.5 INFO User action
+192.168.1.2 ERROR Network unreachable
+10.0.0.8 INFO Resource accessed
+172.16.0.2 ERROR Disk error
+192.168.1.1 INFO Profile changed
+10.0.0.5 ERROR Connection timeout
+192.168.1.2 WARN High memory usage
+10.0.0.8 ERROR Failed login
+172.16.0.2 INFO User logged out
+192.168.1.1 ERROR Unauthorized access
+10.0.0.5 WARN CPU high
+192.168.1.2 INFO Dashboard refreshed
+10.0.0.8 ERROR Database locked
+172.16.0.2 ERROR Email failed
